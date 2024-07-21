@@ -14,7 +14,6 @@
     list-style: none;
 }
 
-
 .skills .tools ul li img {
     max-width: 50px;
     max-height: 50px;
@@ -31,17 +30,17 @@
     padding: 0;
 }
 
-.skills .personal ul li  {
+.skills .personal ul li {
     margin-left: 2rem;
     padding: .5rem;
 }
 
 @media only screen and (min-width: 768px) {
 
-    .skills{
+    .skills {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        
+
     }
 
 }
