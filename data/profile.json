@@ -38,17 +38,17 @@
     ],
     "portfolio": [
         {
-            "name": "Construção de Pokedéx com consumo da PokeAPI",
+            "name": "Construção de Pokedéx",
             "url": "https://github.com/NeiJunio/Pokedex.git",
             "github": true
         },
         {
-            "name": "Landing Page com a temática de cafeteria utilizando Bootstrap",
+            "name": "Landing Page - Cafeteria",
             "url": "https://github.com/NeiJunio/Coffee-Shop.git",
             "github": true
         },
         {
-            "name": "Combinador de bebidas automatizado",
+            "name": "Combinador de bebidas",
             "url": "https://github.com/NeiJunio/Combinador-De-Bebidas-Automatizado.git",
             "github": true
         }
