@@ -1,6 +1,6 @@
 .experience {
     display: flex;
-    flex-direction: column  ;
+    flex-direction: column;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -10,14 +10,14 @@
     margin-bottom: 1rem;
 }
 
-.experience li .period{
+.experience li .period {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin: 0;
 }
 
-.experience li .period::before{
+.experience li .period::before {
     content: '';
     display: inline-block;
     width: 1rem;
@@ -25,6 +25,6 @@
     margin-right: .5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/images/icons/calendar.svg');
+    background-image: url('../images/icons/calendar.svg');
     background-position: center center;
 }
