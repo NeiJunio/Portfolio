@@ -9,19 +9,19 @@
         "hardSkills": [
             {
                 "name": "Hmtl",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+                "logo": "https://raw.githubusercontent.com/NeiJunio/Portfolio/main/data/imgs/html.png"
             },
             {
                 "name": "CSS",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+                "logo": "https://raw.githubusercontent.com/NeiJunio/Portfolio/main/data/imgs/css.png"
             },
             {
                 "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+                "logo": "https://raw.githubusercontent.com/NeiJunio/Portfolio/main/data/imgs/js.png"
             },
             {
                 "name": "Github",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+                "logo": "https://raw.githubusercontent.com/NeiJunio/Portfolio/main/data/imgs/github.png"
             }
         ],
         "softSkills": [
@@ -37,31 +37,31 @@
     ],
     "portfolio": [
         {
-            "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-            "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+            "name": "Construção de Pokedéx com consumo da PokeAPI",
+            "url": "https://github.com/NeiJunio/Pokedex.git",
             "github": true
         },
         {
-            "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-            "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+            "name": "Landing Page com a temática de cafeteria utilizando Bootstrap",
+            "url": "https://github.com/NeiJunio/Coffee-Shop.git",
+            "github": true
+        },
+        {
+            "name": "Combinador de bebidas automatizado",
+            "url": "https://github.com/NeiJunio/Combinador-De-Bebidas-Automatizado.git",
             "github": true
         }
     ],
     "professionalExperience": [
         {
-            "name": "Arquiteto de software / S3 BANK",
+            "name": "Escriturário (Auxiliar de pessoal)",
             "period": "2022 - até o momento",
-            "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+            "description": "É um prazer trabalhar ao lado de tantas pessoas qualificados que se empenham na melhora e na execução do poder público."
         },
         {
-            "name": "Software Engineering Lead / DIO",
-            "period": "2021 - 2022",
-            "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-        },
-        {
-            "name": "CEO / Brain Machine",
-            "period": "2016 - 2021",
-            "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+            "name": "Auxiliar de Serviços Gerais",
+            "period": "2022 - 2022",
+            "description": "Foi uma experiência excepcional trabalhar no auxilio e no desempenho de atividade que visavam a qualidade, a organização e a limpeza dos bens públicos"
         }
     ]
 }
